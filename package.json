@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-lock",
+  "version": "1.0.0",
+  "description": "mongodb distributed locks (support TTL)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mattia Pini",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "mongoose": "^5.4.7"
+  }
+}
