@@ -1,7 +1,7 @@
-const LockerManager = require('./lib/lockManager');
+const LockManager = require('./lib/lockManager');
 const ERRORS = require('./lib/constants').ERRORS;
 
 module.exports = {
-    LockerManager,
+    LockManager,
     ERRORS
 };

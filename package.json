@@ -1,6 +1,6 @@
 {
   "name": "mongodb-dlock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mongodb distributed locks (support TTL)",
   "main": "index.js",
   "scripts": {
